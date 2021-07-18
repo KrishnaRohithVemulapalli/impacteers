@@ -117,7 +117,7 @@ def solve_knn(x1,x2,x3,x4):
 
     answer = counter.most_common()[0][0]
     if answer == 0:
-        string = 'Iris-setosasa'
+        string = 'Iris-setosa'
     elif answer == 1:
         string = 'Iris-versicolor'
     else:
