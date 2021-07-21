@@ -80,38 +80,38 @@ https://github.com/KrishnaRohithVemulapalli/impacteers
  
  
 ## PERFORMANCE OF ALGORITHMS: 
- ![Image](pics/performance.png) 
+ ![Image](pics/preformance.png) 
 
 ## RESULTS: 
  
 ## INPUT: 
- ![Image](pics/Screenshot(436).png) 
+ ![Image](pics/inp1.png) 
 
   
  
  
  
 ## Output: 
-  
+ ![Image](pics/op1.png)  
  
  
  
 ## Input: 
- 
+ ![Image](pics/inp2.png) 
   
  
 ## Output: 
  
-  
+  ![Image](pics/op2.png) 
  
  
  
 ## Input: 
- 
+ ![Image](pics/inp3.png) 
   
  
 ## Output: 
- 
+ ![Image](pics/op3.png) 
   
  
  
